@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sudip Mondal</h1>
 <h3 align="center">A passionate software developer from IIT Madras, India</h3>
 
-- 🌱 I am a full stack web developer (backend node.js & frontend react.js), do some machine learning and desktop GUI
-developement in python also.
+- 🌱 I am a full stack web developer (backend node.js & frontend react.js), do some machine learning, ethical hacking and desktop GUI
+developement in python, do game development in C++ using Unreal Engine.
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/sudip-mondal-2002/](https://github.com/sudip-mondal-2002/)
