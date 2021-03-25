@@ -54,6 +54,5 @@ developement in python, do game development in C++ using Unreal Engine.
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
 </p>
-
-[![Whippingdot's github stats](https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&count_private=true&show_icons=true&hide_border=true&text_color=613F75&title_color=7FEFBD&icon_color=574AE2&bg_color=111344&cache_seconds=86400&local=en&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=10&hide_border=true&text_color=613F75&title_color=7FEFBD&icon_color=574AE2&bg_color=111344&cache_seconds=86400&local=en&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Whippingdot's github stats](https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&count_private=true&show_icons=true&hide_border=true&text_color=613F75&title_color=7FEFBD&icon_color=574AE2&bg_color=111344&cache_seconds=86400&local=en&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=10&hide_border=true&text_color=613F75&title_color=7FEFBD&icon_color=574AE2&bg_color=111344&cache_seconds=86400&local=en&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
