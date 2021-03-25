@@ -55,3 +55,5 @@ developement in python, do game development in C++ using Unreal Engine.
             alt="react" width="40" height="40" /> </a>
 </p>
 
+[![Sudip Mondal's github stats](https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&count_private=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=10&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
