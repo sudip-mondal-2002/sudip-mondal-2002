@@ -8,6 +8,7 @@ developement in python, do game development in C++ using Unreal Engine.
 [https://github.com/sudip-mondal-2002/](https://github.com/sudip-mondal-2002/)
 
 - 📫 How to reach me, drop an email at **sudipmondal.2002@rediffmail.com**
+- My CV website: https://sudip-mondal-2002.github.io/Personal-Site/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
