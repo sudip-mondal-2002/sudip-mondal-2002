@@ -33,6 +33,9 @@ developement in python, do game development in C++ using Unreal Engine.
             alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a>
+    <a href="https://ejs.co/" target="_blank"> <img
+            src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png"
+            alt="Ejs" width="40" height="40" /> </a>
     <a href="https://expressjs.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
             alt="express" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank"> <img
@@ -60,9 +63,7 @@ developement in python, do game development in C++ using Unreal Engine.
     <a href="https://www.unrealengine.com/en-US/" target="_blank"> <img
             src="https://user-images.githubusercontent.com/16515307/33282121-0309b13a-d3eb-11e7-84b0-6d322ca89a5a.png"
             alt="unreal engine" width="40" height="40" /> </a>
-    <a href="https://ejs.co/" target="_blank"> <img
-            src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png"
-            alt="Ejs" width="40" height="40" /> </a>
+  
     
 </p>
 
