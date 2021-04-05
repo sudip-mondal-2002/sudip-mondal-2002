@@ -60,6 +60,9 @@ developement in python, do game development in C++ using Unreal Engine.
     <a href="https://www.unrealengine.com/en-US/" target="_blank"> <img
             src="https://user-images.githubusercontent.com/16515307/33282121-0309b13a-d3eb-11e7-84b0-6d322ca89a5a.png"
             alt="unreal engine" width="40" height="40" /> </a>
+    <a href="https://ejs.co/" target="_blank"> <img
+            src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png"
+            alt="Ejs" width="40" height="40" /> </a>
     
 </p>
 
