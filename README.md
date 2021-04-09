@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sudip Mondal</h1>
 <h3 align="center">A passionate software developer from IIT Madras, India</h3>
 
-- 🌱 I am a full stack web developer (backend node.js & frontend react.js), do some machine learning, ethical hacking and desktop GUI
+- 🌱 I am a full stack web developer (backend node.js & frontend react.js), do some machine learning, ethical hacking
+and desktop GUI
 developement in python, do game development in C++ using Unreal Engine.
 
 - 👨‍💻 All of my projects are available at
@@ -24,37 +25,51 @@ developement in python, do game development in C++ using Unreal Engine.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img
+<p align="left">
+    <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img
+            src="https://pngimage.net/wp-content/uploads/2018/05/azure-logo-png-8.png"
+            alt="azure" width="50" height="35" /> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img
+            alt="bootstrap" width="40" height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
+            height="40" /> </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank">
+            alt="cplusplus" width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a>
     <a href="https://ejs.co/" target="_blank"> <img
-            src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png"
-            alt="Ejs" width="40" height="40" /> </a>
+            src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="Ejs" width="40"
+            height="40" /> </a>
     <a href="https://expressjs.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-        href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-            alt="heroku" width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img
+            alt="express" width="40" height="40" /> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+    <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+            alt="heroku" width="40" height="40" /> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"> <img
+            alt="html5" width="40" height="40" /> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank"> <img
+            alt="javascript" width="40" height="40" /> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank"> <img
+            alt="mongodb" width="40" height="40" /> </a>
+    <a href="https://nodejs.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank"> <img
+            alt="nodejs" width="40" height="40" /> </a>
+    <a href="https://postman.com" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" /> </a> <a href="https://www.python.org" target="_blank"> <img
+            height="40" /> </a>
+    <a href="https://www.python.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank"> <img
+            alt="python" width="40" height="40" /> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
     <a href="https://wiki.python.org/moin/TkInter" target="_blank"> <img
@@ -63,9 +78,11 @@ developement in python, do game development in C++ using Unreal Engine.
     <a href="https://www.unrealengine.com/en-US/" target="_blank"> <img
             src="https://user-images.githubusercontent.com/16515307/33282121-0309b13a-d3eb-11e7-84b0-6d322ca89a5a.png"
             alt="unreal engine" width="40" height="40" /> </a>
-  
-    
+
+
 </p>
 
-[![Sudip Mondal's github stats](https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=20&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Sudip Mondal's github
+stats](https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=20&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
