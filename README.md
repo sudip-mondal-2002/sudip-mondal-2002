@@ -10,7 +10,7 @@ developement in python, do game development in C++ using Unreal Engine.
 
 - 📫 How to reach me, drop an email at **sudipmondal.2002@rediffmail.com**
 - My CV website: https://sudip-mondal-2002.github.io/Personal-Site/
-
+## 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.facebook.com/sudip16022002" target="blank"><img align="center"
@@ -23,6 +23,8 @@ developement in python, do game development in C++ using Unreal Engine.
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"
             width="40" /></a>
 </p>
+
+## 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -80,9 +82,13 @@ developement in python, do game development in C++ using Unreal Engine.
             alt="unreal engine" width="40" height="40" /> </a>
 
 
-</p>
+</p> 
+
+## 
 
 [![Sudip Mondal's github
 stats](https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+##
 [![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=20&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=20&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
