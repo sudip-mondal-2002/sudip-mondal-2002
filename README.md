@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sudip Mondal</h1>
 <h3 align="center">A passionate software developer from IIT Madras, India</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sudip-mondal-2002&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
 - 🌱 I am a full stack web developer (backend node.js & frontend react.js), do some machine learning, ethical hacking
 and desktop GUI
 developement in python, do game development in C++ using Unreal Engine.
