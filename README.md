@@ -30,6 +30,9 @@ developement in python, do game development in C++ using Unreal Engine.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+    <a href="https://developer.android.com/studio" target="_blank"> <img
+            src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
+            alt="android studio" width="40" height="40" /> </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img
             src="https://pngimage.net/wp-content/uploads/2018/05/azure-logo-png-8.png"
             alt="azure" width="50" height="35" /> </a>
@@ -58,6 +61,9 @@ developement in python, do game development in C++ using Unreal Engine.
     <a href="https://www.w3.org/html/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" /> </a>
+    <a href="https://www.java.com/en/" target="_blank"> <img
+            src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"
+            alt="java" width="40" height="40" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
