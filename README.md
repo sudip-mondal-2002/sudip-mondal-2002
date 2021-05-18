@@ -4,8 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sudip-mondal-2002&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 - 🌱 I am a full stack web developer (backend node.js & frontend react.js), do some machine learning, ethical hacking
-and desktop GUI
-developement in python, do game development in C++ using Unreal Engine.
+and desktop GUI developement in python, do game development in C++ using Unreal Engine and android app development in android studio using JAVA.
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/sudip-mondal-2002/](https://github.com/sudip-mondal-2002/)
