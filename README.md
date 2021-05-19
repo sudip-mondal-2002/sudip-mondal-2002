@@ -66,6 +66,9 @@ and desktop GUI developement in python, do game development in C++ using Unreal 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
+    <a href="https://jwt.io/" target="_blank"> <img
+            src="https://jwt.io/img/pic_logo.svg"
+            alt="JWT" width="40" height="40" /> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="40" height="40" /> </a>
