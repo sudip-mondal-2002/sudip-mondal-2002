@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sudip Mondal</h1>
 <h3 align="center">A passionate software developer from IIT Madras, India</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sudip-mondal-2002&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
+<div align=right>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=20&theme=highcontrast&layout=compact" />
+    </a>
+</div>
 
 - 🌱 I am a full stack web developer (backend node.js & frontend react.js), do some machine learning, ethical hacking
 and desktop GUI developement in python, do game development in C++ using Unreal Engine and android app development in android studio using JAVA.
@@ -105,22 +110,18 @@ and desktop GUI developement in python, do game development in C++ using Unreal 
 
 ## 
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-mondal-2002&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-mondal-2002&theme=react&border=61dafb" alt="zumrudu-anka" />
     </a>
+      <br><br>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
+      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&show_icons=true&theme=react&border_color=61dafb"/>
     </a>
-  </div>
-  <br>
+  </div>  
 </p>
 
-<br><br><br><br><br><br><br>
-<div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=20&theme=highcontrast&layout=compact" />
-    </a>
-</div>
+
