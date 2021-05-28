@@ -110,3 +110,6 @@ stats](https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&cou
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=20&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+##
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sudip-mondal-2002&theme=onedark&column=10)](https://github.com/ryo-ma/github-profile-trophy)
