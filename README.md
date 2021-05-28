@@ -104,7 +104,6 @@ and desktop GUI developement in python, do game development in C++ using Unreal 
 
 [![Sudip Mondal's github
 stats](https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-##
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=20&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
