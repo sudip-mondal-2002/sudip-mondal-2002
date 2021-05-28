@@ -105,11 +105,22 @@ and desktop GUI developement in python, do game development in C++ using Unreal 
 
 ## 
 
-[![Sudip Mondal's github
-stats](https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=20&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-##
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-mondal-2002&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
+    </a>
+  </div>
+  <br>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sudip-mondal-2002&theme=onedark&column=10)](https://github.com/ryo-ma/github-profile-trophy)
+<br><br><br><br><br><br><br>
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=20&theme=highcontrast&layout=compact" />
+    </a>
+</div>
