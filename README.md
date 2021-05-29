@@ -124,4 +124,11 @@ and desktop GUI developement in python, do game development in C++ using Unreal 
   </div>  
 </p>
 
+## 
+
+<div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=sudip-mondal-2002&theme=onedark&column=8" alt="zumrudu-anka" />
+    </a>
+</div>
 
