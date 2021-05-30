@@ -20,20 +20,6 @@ and desktop GUI developement in python, do game development in C++ using Unreal 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sudip-mondal-2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ##
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.facebook.com/sudip16022002" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"
-            width="40" /></a>
-    <a href="https://www.linkedin.com/in/sudip-mondal-374a12201/" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
-            width="40" /></a>
-    <a href="https://www.instagram.com/sudip._.mondal/" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"
-            width="40" /></a>
-</p>
-
-## 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -132,3 +118,16 @@ and desktop GUI developement in python, do game development in C++ using Unreal 
     </a>
 </div>
 
+##
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="https://www.facebook.com/sudip16022002" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"
+            width="40" /></a>
+    <a href="https://www.linkedin.com/in/sudip-mondal-374a12201/" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
+            width="40" /></a>
+    <a href="https://www.instagram.com/sudip._.mondal/" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"
+            width="40" /></a>
+</p>
