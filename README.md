@@ -2,20 +2,51 @@
 <h3 align="center">A passionate software developer from IIT Madras, India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sudip-mondal-2002&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
+
+```sh
+var developements = {
+    "Web Development" : {
+        "Languages" : [ "HTML" , "CSS", "JavaScript" ] ,
+        "Frameworks" : [ "Node.js", "Express.js", "MongoDB", 
+                        "MySQL", "React", "Ejs", "Bootstrap" ]
+    }
+    "Android App Development" : {
+        "Languages" : ["HTML", "XML", "JAVA"] ,
+        "Tools" : [ "Gradle", "Android Studio", "Google APIs" ]
+    }
+    "Desktop App Development" : {
+        "Languages" : ["Python"] ,
+        "Libraries" : ["Tkinter"]
+    }
+    "Machine Learning" : {
+        "Languages" : ["Python"] ,
+        "Libraries" : ["Numpy", "Pandas", "Matplotlib", "Sklearn", "OpenCV" ]
+    }
+    "Ethical Hacking" : {
+        "Languages" : ["Python"] ,
+        "System" : ["Kali Linux"]
+    }
+    "Game Development" : {
+        "Languages" : ["C++","Python"],
+        "Libraries" : ["UE libraries", "Pygame"],
+        "Editors" : ["Unreal Engine"]
+    }
+}
+```
 <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=20&theme=highcontrast&layout=compact" />
     </a>
 </div>
 
-- 🌱 I am a full stack web developer (backend node.js & frontend react.js), do some machine learning, ethical hacking
-and desktop GUI developement in python, do game development in C++ using Unreal Engine and android app development in android studio using JAVA.
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/sudip-mondal-2002/](https://github.com/sudip-mondal-2002/)
 
 - 📫 How to reach me, drop an email at **sudipmondal.2002@rediffmail.com**
 - My CV website: https://sudipmondal.tk
+- 5⭐[codechef handle](https://www.codechef.com/users/hehehehhehhe20)
+- Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
 ## 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sudip-mondal-2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
