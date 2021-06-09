@@ -57,9 +57,15 @@ var developements = {
     <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
             src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
             alt="android studio" width="40" height="40" /> </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" title ="MS Azure"> <img
+    <a href="https://angular.io/" target="_blank" title ="Angular"> <img
+            src="https://brandslogos.com/wp-content/uploads/thumbs/angular-logo-vector.svg"
+            alt="angular" width="40" height="40" /> </a>
+    <a href="https://azure.microsoft.com/en-in/" target="_blank" title ="Azure"> <img
             src="https://pngimage.net/wp-content/uploads/2018/05/azure-logo-png-8.png"
             alt="azure" width="50" height="35" /> </a>
+    <a href="https://aws.amazon.com/" target="_blank" title ="AWS"> <img
+            src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo.png"
+            alt="aws" width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a>
@@ -89,6 +95,9 @@ var developements = {
     <a href="https://www.w3.org/html/" target="_blank" title ="html"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" /> </a>
+    <a href="https://ionicframework.com/" target="_blank" title ="Ionic"> <img
+            src="https://cdn-images-1.medium.com/max/1000/1*ZU1eWct801yP-QpUJOaI6Q.png"
+            alt="ionic" width="40" height="40" /> </a>
     <a href="https://www.java.com/en/" target="_blank" title ="java"> <img
             src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"
             alt="java" width="40" height="40" /> </a>
@@ -116,6 +125,9 @@ var developements = {
     <a href="https://wiki.python.org/moin/TkInter" target="_blank" title ="Tkinter"> <img
             src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/65dc5834-de21-4e2e-bd4d-5e0c3c6994dd.jpg?fit=375%2C422&ssl=1"
             alt="tkinter" width="40" height="40" /> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
+            src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
+            alt="typescript" width="40" height="40" /> </a>
     <a href="https://www.unrealengine.com/en-US/" target="_blank" title ="Unreal Engine"> <img
             src="https://user-images.githubusercontent.com/16515307/33282121-0309b13a-d3eb-11e7-84b0-6d322ca89a5a.png"
             alt="unreal engine" width="40" height="40" /> </a>
