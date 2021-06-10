@@ -6,13 +6,13 @@
 ```sh
 var developements = {
     "Web Development" : {
-        "Languages" : [ "HTML" , "CSS", "JavaScript" ] ,
+        "Languages" : [ "HTML" , "CSS", "JavaScript", "TypeScript" ] ,
         "Frameworks" : [ "Node.js", "Express.js", "MongoDB", 
-                        "MySQL", "React", "Ejs", "Bootstrap" ]
+                        "MySQL", "React", "Angular", "Ejs", "Bootstrap" ]
     }
-    "Android App Development" : {
-        "Languages" : ["HTML", "XML", "JAVA"] ,
-        "Tools" : [ "Gradle", "Android Studio", "Google APIs" ]
+    "Native App Development" : {
+        "Languages" : ["HTML", "XML", "JAVA", "TypeScript", "SCSS" ] ,
+        "Frameworks & Tools" : ["Angular", "Ionic",  "Gradle", "Android Studio", "Google APIs"]
     }
     "Desktop App Development" : {
         "Languages" : ["Python"] ,
