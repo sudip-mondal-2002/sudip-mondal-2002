@@ -144,8 +144,8 @@ var developements = {
 
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-mondal-2002&theme=react&border=61dafb" alt="zumrudu-anka" />
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb" alt="sudip's wakatime" />
     </a>
       <br><br>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
@@ -176,4 +176,3 @@ var developements = {
             width="40" /></a>
 </p>
 
-[![Sudip's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal)](https://github.com/anuraghazra/github-readme-stats)
