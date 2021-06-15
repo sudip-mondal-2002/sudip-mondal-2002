@@ -175,3 +175,5 @@ var developements = {
             src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
             width="40" /></a>
 </p>
+
+[![Sudip's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal)](https://github.com/anuraghazra/github-readme-stats)
