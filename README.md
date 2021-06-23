@@ -140,21 +140,17 @@ var developements = {
 
 ## 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb" alt="sudip's wakatime" />
-    </a>
-      <br><br>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
-    </a>
-  </div>  
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb" alt="sudip's wakatime" />
+</a>
 
-## 
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+ </a>
+<a href="(https://git.io/streak-stats" title="Go to Source">
+      <img align="right" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=sudip-mondal-2002&theme=react&border=61DAFB&fire=DDB80F"/>
+ </a>
 
 <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
