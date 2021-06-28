@@ -142,7 +142,7 @@ var developements = {
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb" alt="sudip's wakatime" />
+    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb&langs_count=13" alt="sudip's wakatime" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
