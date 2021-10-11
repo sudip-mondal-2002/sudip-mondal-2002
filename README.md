@@ -5,7 +5,7 @@ Indian Institute of Technology, Madras, India
 ## Skills
 <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=20&theme=highcontrast&layout=compact" />
+      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=20&theme=highcontrast&layout=compact&custom_title=Most used languages on GitHub" />
     </a>
 </div>
 
@@ -20,6 +20,10 @@ Indian Institute of Technology, Madras, India
 
 ## Tools and Technologies
 
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+ </a>
+ 
 <p align="left">
     <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
             src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
@@ -104,7 +108,12 @@ Indian Institute of Technology, Madras, India
 </p> 
 
 ## Projects
-### Personal Projects
+
+<table border="0">
+ <tr>
+     <td>
+         
+### Personal Projects      
 * Codebee: Programming languages for beginners
    * This is a programming language written in python.
    * Learnt about tokenization, Lexers, and Interpreters during this project.
@@ -123,6 +132,9 @@ Indian Institute of Technology, Madras, India
 * Anime Face Generator: Generative Advisory Network
    * This model generates a random anime face using GANs.
    * Learnt about image processing and GANs.
+     </td>
+    <td> 
+        
 ### Group projects
 * Emotion detector for android
    * This is a categorical classifier model used to detect facial expressions.
@@ -139,7 +151,9 @@ Indian Institute of Technology, Madras, India
 * Logistic & Innovation Lab, IIT Madras (prof. N.S Narayanaswamy)
    * Logistic Innovation Lab ideates and implements efficient route algorithms for transportation.
    * Worked in the frontend team of the project. Used React.js as the base framework.
-
+     </td>
+     </tr>  
+         </table>  
 ## Professional Experiences
 * Crammn (Sep’21 - Present)
    * Crammn is an ed-tech startup, helping students over many educational institutes.
@@ -157,6 +171,12 @@ Indian Institute of Technology, Madras, India
 * Core Member, WebOps Team, Sports Organizing Committee, IIT Madras (May’21 - present)
    * Recruited and managed coordinators and maintained a steep curve for their training.
    * Used MERN stack for building the website for Agrata, sports fest of IIT Madras.
+
+## Co-curricular Activities
+* Host a workshop for programming in Shastra Juniors. Taught school students a brief introduction to programming and the computing world.
+* Contributed to open-source projects.
+* Participated in National Cadet Corps while in school.
+
 ## Scholastic Achievements
 * 5 stars in CodeChef.
 * Selected in top 5 finalists in Pravega Hackathon by IISc, Bangalore.
@@ -168,23 +188,6 @@ Programming Competition).
 * Zonal rank 1 in SilverZone Olympiad of Mathematics (Bihar Jharkhand
 zone, class 12).
 * Olympiad rank 1 in Brilliantzone Olympiad of mathematics (class 5).
-
-## Co-curricular Activities
-* Host a workshop for programming in Shastra Juniors. Taught school students a brief introduction to programming and the computing world.
-* Contributed to open-source projects.
-* Participated in National Cadet Corps while in school.
-
-## What I do?
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb&langs_count=13" alt="sudip's wakatime" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
- </a>
-<a href="(https://git.io/streak-stats" title="Go to Source">
-      <img align="right" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=sudip-mondal-2002&theme=react&border=61DAFB&fire=DDB80F"/>
- </a>
 
 <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
