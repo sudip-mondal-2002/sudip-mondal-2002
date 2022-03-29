@@ -11,6 +11,7 @@ Indian Institute of Technology, Madras, India
 
 * Machine Learning, Deep Learning with Computer Vision, Reinforcement learning.(TensorFlow & PyTorch)
 * Web Development (Full Stack, MERN/MEAN)
+* DevOps Engineering(With Azure, Docker, Kubernates etc.)
 * Data Structures and Algorithms
 * Native Android Development
 * Desktop GUI development
