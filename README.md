@@ -109,9 +109,7 @@ Indian Institute of Technology, Madras, India
             src="https://cdn.iconscout.com/icon/free/png-512/xml-file-2330558-1950399.png"
             alt="XML" width="40" height="40" /> </a>
 </p>
-<hr>
-<img align="center" width=100% src="Resume.jpg" alt="Resume" />
-<hr>
+
 
 
 <div align=center>
