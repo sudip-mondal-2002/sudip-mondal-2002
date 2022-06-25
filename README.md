@@ -110,7 +110,7 @@ Indian Institute of Technology, Madras, India
             alt="XML" width="40" height="40" /> </a>
 </p>
 
-
+<hr />
 
 <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
