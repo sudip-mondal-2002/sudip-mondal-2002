@@ -7,7 +7,7 @@ Indian Institute of Technology, Madras, India
 ## Skills
 <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&theme=highcontrast&layout=compact&custom_title=Most used languages on GitHub" />
+      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&theme=highcontrast&langs_count=10&layout=compact" />
     </a>
 </div>
 
