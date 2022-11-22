@@ -16,6 +16,7 @@ Indian Institute of Technology, Madras, India
 * Programming Languages: C++, C, Python, JavaScript, Java.
 * Low level and High level system design
 * Cloud computation
+* Full stack software engineering
 
 ## Tools and Technologies
 
