@@ -14,6 +14,8 @@ Indian Institute of Technology, Madras, India
 * Web and Mobile application Development 
 * DevOps Engineering, Process Automation, Version control
 * Programming Languages: C++, C, Python, JavaScript, Java.
+* Low level and High level system design
+* Cloud computation
 
 ## Tools and Technologies
 
