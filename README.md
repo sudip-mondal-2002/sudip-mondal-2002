@@ -3,7 +3,10 @@
 Indian Institute of Technology, Madras, India                                       
 [E-mail](mailto:sudipmondal.2002@rediffmail.com) | [LinkedIn](https://www.linkedin.com/in/sudip-mondal-374a12201/) | [Facebook](https://www.facebook.com/sudip16022002/) | [Instagram](https://www.instagram.com/sudip._.mondal/) | [Twitter](https://twitter.com/SUDIPMO19931261) | [YouTube](https://www.youtube.com/channel/UCvfY9VkXaFNxQJO7lfDV6Vw) | [GitHub](https://github.com/sudip-mondal-2002)
 
-[Schedule a meet with me](https://calendly.com/sudip-mondal-2002/15min)
+<div><a href="https://www.sudipmondal.co.in"><img height="40px" src="./portfolio-button.png"></img></a></div>
+<div><a href="https://blog.sudipmondal.co.in"><img height="40px" src="./blog-button.png"></img></a></div>
+<div><a href="https://calendly.com/sudip-mondal-2002/15min"><img height="40px" src="./call-button.png"></img></a></div>
+
 ## Skills
 <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
