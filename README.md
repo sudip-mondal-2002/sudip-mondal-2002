@@ -20,6 +20,8 @@ Indian Institute of Technology, Madras, India
 * Low level and High level system design
 * Cloud computation
 * Full stack software engineering
+* Simulation and Modelling
+
 
 ## Tools and Technologies
 
