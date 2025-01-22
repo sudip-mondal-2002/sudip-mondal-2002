@@ -1,7 +1,7 @@
-# Sudip Mondal                                                                       
-4th year, B.Tech Civil Engineering                                                    
-Indian Institute of Technology, Madras, India                                       
-[E-mail](mailto:sudipmondal.2002@rediffmail.com) | [LinkedIn](https://www.linkedin.com/in/sudip-mondal-374a12201/) | [Facebook](https://www.facebook.com/sudip16022002/) | [Instagram](https://www.instagram.com/sudip._.mondal/) | [Twitter](https://twitter.com/SUDIPMO19931261) | [YouTube](https://www.youtube.com/channel/UCvfY9VkXaFNxQJO7lfDV6Vw) | [GitHub](https://github.com/sudip-mondal-2002)
+# Sudip Mondal        
+Software Emgineer @ Mando
+Alumni, B.Tech, Indian Institute of Technology, Madras, India                                       
+[E-mail](mailto:sudmondal2002@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sudip-mondal-374a12201/) | [Facebook](https://www.facebook.com/sudip16022002/) | [Instagram](https://www.instagram.com/sudip._.mondal/) | [Twitter](https://twitter.com/SUDIPMO19931261) | [YouTube](https://www.youtube.com/channel/UCvfY9VkXaFNxQJO7lfDV6Vw) | [GitHub](https://github.com/sudip-mondal-2002)
 
 [![committers.top badge](https://user-badge.committers.top/india/sudip-mondal-2002.svg)](https://user-badge.committers.top/india/sudip-mondal-2002.svg)
 <div><a href="https://www.sudipmondal.co.in"><img height="40px" src="./portfolio-button.png"></img></a></div>
