@@ -6,7 +6,6 @@ Alumni, B.Tech, Indian Institute of Technology, Madras, India
 [![committers.top badge](https://user-badge.committers.top/india/sudip-mondal-2002.svg)](https://user-badge.committers.top/india/sudip-mondal-2002.svg)
 <div><a href="https://www.sudipmondal.co.in"><img height="40px" src="./portfolio-button.png"></img></a></div>
 <div><a href="https://blog.sudipmondal.co.in"><img height="40px" src="./blog-button.png"></img></a></div>
-<div><a href="https://topmate.io/sudip_mondal_official"><img height="40px" src="./call-button.png"></img></a></div>
 
 ## Skills
 <div align=right>
