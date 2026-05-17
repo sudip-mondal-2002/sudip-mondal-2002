@@ -1,6 +1,6 @@
 # Sudip Mondal        
-Software Emgineer @ Mando
-Alumni, B.Tech, Indian Institute of Technology, Madras, India                                       
+#### Software Engineer @ Mando
+##### Alumni, B.Tech, Indian Institute of Technology, Madras, India                                       
 [E-mail](mailto:sudmondal2002@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sudip-mondal-374a12201/) | [Facebook](https://www.facebook.com/sudip16022002/) | [Instagram](https://www.instagram.com/sudip._.mondal/) | [Twitter](https://twitter.com/SUDIPMO19931261) | [YouTube](https://www.youtube.com/channel/UCvfY9VkXaFNxQJO7lfDV6Vw) | [GitHub](https://github.com/sudip-mondal-2002)
 
 [![committers.top badge](https://user-badge.committers.top/india_private/sudip-mondal-2002.svg)](https://user-badge.committers.top/india_private/sudip-mondal-2002)
